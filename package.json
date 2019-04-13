@@ -1,0 +1,39 @@
+{
+  "name": "typescript-workspace",
+  "version": "1.0.0",
+  "description": "This Project is a Template for a TypeScript Workspace.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrCrunsh/TypeScript-Workspace.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Workspace",
+    "Template"
+  ],
+  "author": "Dennis Hering",
+  "license": "MIT",
+  "scripts": {
+      "dev": "ts-node ./src/server.ts",
+      "lint": "tslint -p tsconfig.json -c tslint.json"
+  },
+  "bugs": {
+    "url": "https://github.com/MrCrunsh/TypeScript-Workspace/issues"
+  },
+  "homepage": "https://github.com/MrCrunsh/TypeScript-Workspace#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.4",
+    "node-gyp": "^3.8.0",
+    "nodemon": "^1.18.11",
+    "ts-node": "^8.0.3",
+    "tslint": "^5.15.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "typescript": "^3.4.3"
+  }
+}
