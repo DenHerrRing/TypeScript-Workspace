@@ -12,10 +12,16 @@
             true,
             130
         ],
-        "ter-indent": [true, 4],
+        "ter-indent": [
+            true,
+            4
+        ],
         "no-trailing-whitespace": false,
         "prefer-template": false,
-        "interface-name": [true, "never-prefix"],
+        "interface-name": [
+            true,
+            "never-prefix"
+        ],
         "import-name": false,
         "no-console": false,
         "semicolon": false,
