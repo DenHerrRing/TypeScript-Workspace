@@ -142,3 +142,4 @@ $RECYCLE.BIN/
 
 # NodeJs
 node_modules
+package-lock.json
