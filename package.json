@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/MrCrunsh/TypeScript-Workspace.git"
+    "url": "git+ssh://git@github.com/DenHerrRing/TypeScript-Workspace.git"
   },
   "keywords": [
     "TypeScript",
@@ -19,9 +19,9 @@
   "author": "Dennis Hering",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrCrunsh/TypeScript-Workspace/issues"
+    "url": "https://github.com/DenHerrRing/TypeScript-Workspace/issues"
   },
-  "homepage": "https://github.com/MrCrunsh/TypeScript-Workspace#readme",
+  "homepage": "https://github.com/DenHerrRing/TypeScript-Workspace#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^11.13.20",
